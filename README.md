@@ -1,16 +1,16 @@
-# nuvo-dashing-js
+# node-dashing-js
 
 A fork of the port of [Dashing](http://shopify.github.io/dashing/) to node.js in attempt to revive the project with updated dependencies.
 
-[![NPM version](https://badge.fury.io/js/nuvo-dashing-js.png)](http://badge.fury.io/js/nuvo-dashing-js)
-[![Dependency Status](https://david-dm.org/lokulin/nuvo-dashing-js.png)](https://david-dm.org/lokulin/nuvo-dashing-js)
+[![NPM version](https://badge.fury.io/js/node-dashing-js.png)](http://badge.fury.io/js/node-dashing-js)
+[![Dependency Status](https://david-dm.org/jonnochoo/nuvo-dashing-js.png)](https://david-dm.org/jonnochoo/nuvo-dashing-js)
 
 ## Getting Started
 
 1. Install from npm
 
 ```shell
-$ npm install -g nuvo-dashing-js
+$ npm install -g node-dashing-js
 ```
 
 2. Generate a new project

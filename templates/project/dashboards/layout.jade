@@ -8,7 +8,8 @@ html(lang='en')
     title
       block title
         | dashing-js
-
+    script(type='text/javascript').
+        if ( ! window.console ) console = { log: function(){} };
     // The javascript and css are managed by sprockets. The files can be found in the /assets folder
     script(src='/assets/application.js')
     link(rel='stylesheet', href='/assets/application.css')

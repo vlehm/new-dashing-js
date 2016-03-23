@@ -1,8 +1,8 @@
 {
-  "name": "node-dashing-js",
+  "name": "nuvo-dashing-js",
   "description": "A fork of dashing-js to bring dependencies up to date.",
-  "author": "Jonathon Choo",
-  "version": "1.0.3",
+  "author": "A mix of people",
+  "version": "1.1.12",
   "license": "MIT",
   "dependencies": {
     "async": "^1.5.2",
@@ -39,7 +39,7 @@
     "dashboard",
     "web"
   ],
-  "repository": "git://github.com/jonnochoo/nuvo-dashing-js",
+  "repository": "git://github.com/lokulin/nuvo-dashing-js",
   "main": "index",
   "bin": {
     "dashing-js": "./bin/dashing-js"

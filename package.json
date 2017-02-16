@@ -2,7 +2,7 @@
   "name": "nuvo-dashing-js",
   "description": "A fork of dashing-js to bring dependencies up to date.",
   "author": "A mix of people",
-  "version": "1.1.12",
+  "version": "1.2.0",
   "license": "MIT",
   "dependencies": {
     "async": "2.1.4",

@@ -1,5 +1,5 @@
 {
-  "name": "nuvo-dashing-js",
+  "name": "new-dashing-js",
   "description": "A fork of dashing-js to bring dependencies up to date.",
   "author": "A mix of people",
   "version": "1.2.0",
@@ -39,7 +39,7 @@
     "dashboard",
     "web"
   ],
-  "repository": "git://github.com/lokulin/nuvo-dashing-js",
+  "repository": "git://github.com/4xel/new-dashing-js",
   "main": "index",
   "bin": {
     "dashing-js": "./bin/dashing-js"

@@ -21,7 +21,7 @@
     "method-override": "^2.3.5",
     "mincer": "^1.4.1",
     "morgan": "^1.6.1",
-    "node-sass": "4.5.0",
+    "node-sass": "4.13.0",
     "node-schedule": "^1.0.0",
     "prompt": "^1.0.0",
     "request": "^2.69.0",
